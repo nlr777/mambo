@@ -1,0 +1,4 @@
+mambo
+=====
+
+Lite coin repository
